@@ -31,23 +31,6 @@
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=fff)](#)
 [![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?logo=metamask&logoColor=fff)](#)
 
-
----
-
-## 🧰 技术栈
-- **语言**：TypeScript · JavaScript · Dart
-- **Web 框架 / SSR**：React · Vue 3 · Svelte · Web Components/Lit · Next.js · Nuxt
-- **跨端 / 客户端**：Flutter · Electron/Tauri · PWA · 小程序（微信/支付宝） · Capacitor
-- **渲染 / 可视化**：Canvas · SVG · WebGL/Three.js · WebGPU（实验）· ECharts · D3 · G2Plot
-- **状态 / 数据**：Redux · Zustand · Pinia · RxJS · SWR/React Query · GraphQL（Apollo）· tRPC · Zod
-- **工程化 / 构建**：pnpm · Turborepo · Changesets · Vite · Rollup · esbuild · SWC · tsup · Monorepo
-- **样式系统**：Tailwind CSS · UnoCSS · CSS Modules · Sass · PostCSS · CSS-in-JS（Emotion / Styled Components）
-- **网络 / 能力**：Fetch/XHR · WebSocket · Service Worker/Workbox · WebRTC（基础）· OAuth/OIDC
-- **测试 / 质量**：Vitest · Jest · Playwright · Cypress · Storybook · ESLint · Prettier · Lighthouse
-- **服务端 / BFF**：Node.js（Nest / Express / Koa）· GraphQL Server · tRPC · Prisma/Drizzle（可选）
-- **部署 / 运维**：Docker · Nginx · GitHub Actions · Vercel/Netlify · Cloudflare Workers/Pages
-- **Web3**：Solidity · Ethers.js · Web3.js · Hardhat · Foundry（基础）· wagmi/viem · MetaMask · WalletConnect · IPFS/Pinata
-
 ---
 
 > 我的哲学：**把复杂拆成标准件**，把标准件拼成产品力。
